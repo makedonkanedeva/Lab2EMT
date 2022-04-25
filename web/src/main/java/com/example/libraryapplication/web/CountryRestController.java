@@ -12,6 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.List;
 
 @RestController
+@CrossOrigin(origins = "https://localhost:3031")
 @RequestMapping("/api/countries")
 public class CountryRestController {
 

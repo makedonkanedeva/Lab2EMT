@@ -10,6 +10,7 @@ import java.util.EnumSet;
 import java.util.List;
 
 @RestController
+@CrossOrigin(origins = "https://localhost:3031")
 @RequestMapping("/api/categories")
 public class CategoryRestController {
 
