@@ -6,11 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="EMT_lab2" />
         <module name="LibraryApplication" />
         <module name="Library-react-spring-boot" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="EMT_lab2" target="17" />
       <module name="Library-react-spring-boot" target="17" />
       <module name="LibraryApplication" target="11" />
     </bytecodeTargetLevel>

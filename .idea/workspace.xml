@@ -5,45 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4334a403-526e-4cfa-999c-3b57aa2a0064" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/frontend/Frontend.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library-react-spring-boot.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryApplication.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend" beforeDir="false" afterPath="$PROJECT_DIR$/frontend" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/dist/axios.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/dist/axios.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/dist/axios.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/dist/axios.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/dist/axios.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/dist/axios.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/dist/axios.min.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/dist/axios.min.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/index.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/adapters/http.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/adapters/http.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/adapters/xhr.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/adapters/xhr.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/axios.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/axios.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/cancel/CancelToken.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/cancel/CancelToken.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/cancel/CanceledError.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/core/Axios.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/core/Axios.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/core/AxiosError.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/core/dispatchRequest.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/core/dispatchRequest.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/core/mergeConfig.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/core/mergeConfig.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/core/settle.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/core/settle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/defaults/env/FormData.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/defaults/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/defaults/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/env/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/env/data.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/helpers/null.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/helpers/toFormData.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/helpers/toFormData.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/helpers/validator.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/helpers/validator.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/utils.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/form-data/README.md.bak" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/form-data/README.md.bak" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/form-data/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/form-data/Readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/form-data/lib/form_data.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/form-data/lib/form_data.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/form-data/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/form-data/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +55,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="16" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/frontend" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -137,6 +100,7 @@
       <workItem from="1650914329384" duration="111000" />
       <workItem from="1650914453124" duration="1155000" />
       <workItem from="1650917521191" duration="4000" />
+      <workItem from="1650918609288" duration="129000" />
     </task>
     <servers />
   </component>
